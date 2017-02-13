@@ -1,16 +1,12 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "betterbeaconsmod",
+  "name": "Better Beacons Mod",
+  "description": "Better beacon mechanics.",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
-  "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
+  "url": "https://github.com/ProfessorG/BetterBeaconsMod",
+  "authorList": ["ProfessorG"],
+  "credits": "SimplySarc, for the ideas for changes to beacons, and SilentChaos512 for his Forge 1.11 tutorials.",
 }
 ]
